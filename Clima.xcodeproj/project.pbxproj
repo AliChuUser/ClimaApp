@@ -13,7 +13,6 @@
 		63E28AF71B99C36100FBF6E0 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63E28AF31B99C36100FBF6E0 /* Images.xcassets */; };
 		63E28AF81B99C36100FBF6E0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63E28AF41B99C36100FBF6E0 /* Main.storyboard */; };
 		63E28AF91B99C36100FBF6E0 /* WeatherViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E28AF51B99C36100FBF6E0 /* WeatherViewController.swift */; };
-		AD6D011C20EA822200B1782A /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = AD6D011B20EA822100B1782A /* README.md */; };
 		AD6D012020EA823100B1782A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AD6D011D20EA823100B1782A /* LaunchScreen.storyboard */; };
 		AD6D012120EA823100B1782A /* AppBreweryLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = AD6D011E20EA823100B1782A /* AppBreweryLogo.png */; };
 		AD6D012220EA823100B1782A /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = AD6D011F20EA823100B1782A /* background.png */; };
@@ -32,7 +31,6 @@
 		63E28AF51B99C36100FBF6E0 /* WeatherViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WeatherViewController.swift; sourceTree = "<group>"; };
 		8236288D58DBEE9B871A63BD /* Pods-Clima.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Clima.release.xcconfig"; path = "Pods/Target Support Files/Pods-Clima/Pods-Clima.release.xcconfig"; sourceTree = "<group>"; };
 		9BB140805F4A38A2086748F2 /* Pods-Clima.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Clima.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Clima/Pods-Clima.debug.xcconfig"; sourceTree = "<group>"; };
-		AD6D011B20EA822100B1782A /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		AD6D011D20EA823100B1782A /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AD6D011E20EA823100B1782A /* AppBreweryLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AppBreweryLogo.png; sourceTree = "<group>"; };
 		AD6D011F20EA823100B1782A /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
@@ -70,7 +68,6 @@
 		63E28AC21B99C32400FBF6E0 = {
 			isa = PBXGroup;
 			children = (
-				AD6D011B20EA822100B1782A /* README.md */,
 				63E28ACD1B99C32400FBF6E0 /* Clima */,
 				63E28ACC1B99C32400FBF6E0 /* Products */,
 				1648FEE2DDF6A7B9A7D429E6 /* Pods */,
@@ -200,7 +197,6 @@
 				63E28AF71B99C36100FBF6E0 /* Images.xcassets in Resources */,
 				AD6D012220EA823100B1782A /* background.png in Resources */,
 				AD6D012020EA823100B1782A /* LaunchScreen.storyboard in Resources */,
-				AD6D011C20EA822200B1782A /* README.md in Resources */,
 				63E28AF81B99C36100FBF6E0 /* Main.storyboard in Resources */,
 				AD6D012120EA823100B1782A /* AppBreweryLogo.png in Resources */,
 			);
